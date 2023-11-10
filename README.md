@@ -1,7 +1,6 @@
-#Proyecto del curso- AluraMidi-Curso
-Curso de JavaScript para Web: Crea páginas dinámicasde Alura Latam. Instructora: Jeanmarie Quijada
+#Proyecto del Curso de JavaScript para Web: Crea páginas dinámicas
 
-Proyecto del curso de JavaScript para Web: Crea páginas dinámicasde de **Alura LATAM**, es el Alura Midi que es un instrumento musical de interfaz digital al cual le agregaremos las funcionalidades en el transcurso del curso. 
+El proyecto del curso es el Alura Midi que es un instrumento musical de interfaz digital al cual le agregaremos las funcionalidades en el transcurso del curso. 
 
  
 ## Comenzando 🚀
